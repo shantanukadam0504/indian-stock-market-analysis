@@ -53,6 +53,12 @@ The interactive dashboard includes:
 
 To develop practical data analytics skills by analyzing stock market data and presenting insights through SQL queries and interactive Power BI visualizations.
 
+## 📊 Dashboard Preview
+
+### Indian Stock Market Dashboard
+
+![Stock Market Dashboard](C:\Users\shant\OneDrive\Desktop\Data Analyst Projects\Indian Stock Market Analysis\screenshots)
+
 ## 👨‍💻 Author
 
 **Shantanu Kadam**
