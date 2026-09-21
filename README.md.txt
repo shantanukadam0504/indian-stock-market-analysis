@@ -57,7 +57,7 @@ To develop practical data analytics skills by analyzing stock market data and pr
 
 ### Indian Stock Market Dashboard
 
-![Stock Market Dashboard](screenshots/Indian_Stock_Market_Dashboard.png)
+![Stock Market Dashboard](./screenshots/Indian_Stock_Market_Dashboard.png)
 
 ## 👨‍💻 Author
 
